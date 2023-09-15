@@ -1,0 +1,28 @@
+-- remote db - elephant_db
+---- get by ID
+-- filters
+-- join, custom apis
+-- file upload
+-- think permissions, attendance
+-- student contract (qanchasini tolandi, qanchasi qoldi)
+
+searchs
+
+filter subject by terms
+
+Role and permissions
+
+
+
+
+---get patient appointments by date:
+- last 1hour
+- last3hours
+- last 5hours
+- last 1day
+- last 3days
+- last 7days
+- last 10days
+- last 15days
+- last 30days
+- all by sorted
